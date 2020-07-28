@@ -1,16 +1,15 @@
-### Hi there 👋
+# Jeff Houle / jhoule86
 
-<!--
-**jhoule86/jhoule86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current focus
+- Custom ERP plugins for Wayfair Supplier Integrations
 
-Here are some ideas to get you started:
+## Past lives
+- Cocreator of new Event Management and Alerting Platforms for Wayfair Supplier Integrations
+  
+- Integration engineering at Pegasystems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- TR-069 / CWMP engineering at UNH IOL
+
+- Internships
+  - Sun Microsystems
+  - Mindreef
