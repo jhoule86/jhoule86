@@ -1,9 +1,12 @@
 # Jeff Houle / jhoule86
 
 ## Current focus
-- Custom ERP plugins for Wayfair Supplier Integrations
+- Supplier onboarding + enablement at Wayfair
 
 ## Past lives
+
+- Custom ERP plugins for Wayfair Supplier Integrations
+
 - Cocreator of new Event Management and Alerting Platforms for Wayfair Supplier Integrations
   
 - Integration engineering at Pegasystems
