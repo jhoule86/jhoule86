@@ -20,6 +20,8 @@ Looking to do some more management and/or engineering in the software space.
 - Assisting the director of Integration engineering.
 - Componentizing modules in a monolithic codebase.
 - Adding new Integration Security features to the Pega platform.
+- Coaching Support Engineers and End-Users on the use of Pega's integration feature set.
+  - [See my efforts to help users report and resolve bugs](https://www.google.com/search?q=pega+houlj).
 
 ### UNH IOL
 - TR-069 / CWMP engineering.
