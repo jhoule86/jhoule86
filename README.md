@@ -18,6 +18,8 @@ Looking to do some more management and/or engineering in the software space.
 
 ### Pegasystems
 - Assisting the director of Integration engineering.
+- Componentizing modules in a monolithic codebase.
+- Adding new Integration Security features to the Pega platform.
 
 ### UNH IOL
 - TR-069 / CWMP engineering.
