@@ -5,7 +5,7 @@
 Looking to do some more management and/or engineering in the software space.
 - I teach and enforce Agile practices.
 - I document everything I do.
-- I do walk-throughs that get engineers onboarded and excited to work on my projects.
+- I do walk-throughs that get engineers onboarded and excited to be doing their jobs.
 - I dabble in Java, Python, PHP, JS, and beyond.
 - I've spent a lot of time explaining concepts such as HTTP headers and Multipart Emails to product managers and end users alike.
 
@@ -29,6 +29,7 @@ Looking to do some more management and/or engineering in the software space.
 ### UNH IOL
 - TR-069 / CWMP engineering.
 - Writing custom XML Parsers.
+- Reviewing / certifying test plans published by the Broadband Forum.
 
 ### Internships
   - Sun Microsystems
