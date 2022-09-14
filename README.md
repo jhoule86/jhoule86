@@ -15,9 +15,12 @@ Looking to do some more management and/or engineering in the software space.
 - Building pipelines for notifying Wayfair's suppliers about integration issues and needs.
 - Repairing legacy apps used by Wayfair's suppliers.
 - Designing and implementing custom ERP plugins for Wayfair Supplier Integrations.
+- Building a "dating service" between Wayfair's suppliers and the integration solutions provided by partner organizations.
 
 ### Pegasystems
 - Assisting the director of Integration engineering.
+- Adding and enhancing data channels in the Pega platform.
+  - I made it possible for your bank to send you emails with images and tweets with non-alphanumeric characters (sorry?)
 - Componentizing modules in a monolithic codebase.
 - Adding new Integration Security features to the Pega platform.
 - Coaching Support Engineers and End-Users on the use of Pega's integration feature set.
