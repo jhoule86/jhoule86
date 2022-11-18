@@ -1,13 +1,9 @@
 # Jeff Houle / jhoule86
 
 ## Current focus
-### Available for hire!
-Looking to do some more management and/or engineering in the software space.
-- I teach and enforce Agile practices.
-- I document everything I do.
-- I do walk-throughs that get engineers onboarded and excited to be doing their jobs.
-- I dabble in Java, Python, PHP, JS, and beyond.
-- I've spent a lot of time explaining concepts such as HTTP headers and Multipart Emails to product managers and end users alike.
+
+### Capital One
+TBD
 
 ## Past lives
 
