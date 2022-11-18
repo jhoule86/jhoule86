@@ -3,7 +3,9 @@
 ## Current focus
 
 ### Capital One
-TBD
+ - Java
+ - AWS
+ - Jenkins
 
 ## Past lives
 
