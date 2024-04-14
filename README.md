@@ -27,7 +27,7 @@
   - I got the Pega platform to start utilzing the complicated layers of security in IBM Websphere instead of being overly tuned to Apache Tomcat.
   - Your insurance company started transferring your private information by more secure means after I was there for a while.
 - Coaching Product Managers, Support Engineers and End-Users on internet technologies and the use of Pega's integration feature set.
-  - Gave semi-annual presentations on "what are secure sockets and what versions of TLS should we be supporting (and deprecating) next?"
+  - I gave semi-annual presentations on "what are secure sockets and what versions of TLS should we be supporting (and deprecating) next?"
   - [See my efforts to help users report and resolve bugs](https://www.google.com/search?q=pega+houlj).
 
 ### UNH IOL
