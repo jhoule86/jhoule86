@@ -4,7 +4,7 @@
 
 Taking some time to ask myself things, such as
 - "What is that beautiful house?"
-- Where does that highway go to?"
+- "Where does that highway go to?"
 - "Am I right, am I wrong?"
 - "... What have I done?"
 
