@@ -2,14 +2,18 @@
 
 ## Current focus
 
-### Capital One
- - Java
- - Apache Camel
- - AWS
- - Jenkins
- - Scrum
+Taking some time to ask myself things, such as
+- "What is that beautiful house?"
+- Where does that highway go to?"
+- "Am I right, am I wrong?"
+- "... What have I done?"
 
 ## Past lives
+
+### Capital One
+ - Supporting Auth APIs and third party integrations
+ - Techincal documentation
+ - Profit?
 
 ### Wayfair
 - Building pipelines for notifying Wayfair's suppliers about integration issues and needs.
