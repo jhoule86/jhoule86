@@ -1,5 +1,9 @@
 # Jeff Houle / jhoule86
 
+## Links
+
+- [My Linkedin Profile](https://www.linkedin.com/in/jhoule/)
+
 ## Current focus
 
 Taking some time to ask myself things, such as
