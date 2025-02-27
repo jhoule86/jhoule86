@@ -36,6 +36,9 @@
   - I authored the first properly-encoded Tweet coming from a Pega flow.
 - Componentizing modules in a monolithic codebase
   - I abstracted and reimplemented a lot of the code and PegaRules middleware in order to actually work across all supported operating systems and application servers.
+  - I assisted in migrating my team to a Test-Driven-Development approach with reusable, testable code.
+- Designed, implemented, and ran real end-to-end testing of integration features via emulation of customers' applications and environments based on donated samples.
+  - I asked a lot of third parties to fix their broken REST services for everyone's sake.
 - Adding new Integration Security features to the Pega platform.
   - I got the Pega platform to start utilzing the complicated layers of security in IBM Websphere instead of being overly tuned to Apache Tomcat.
   - Your insurance company started transferring your private information by more secure means after I was there for a while.
