@@ -29,11 +29,14 @@ Taking some time to ask myself things, such as
 ### Pegasystems
 - Assisting the director of Integration engineering.
 - Adding and enhancing data channels in the Pega platform.
-  - I made it possible for your bank to send you emails with images (sorry?).
+  - I abstracted and reimplemented a lot of the code and PegaRules middleware in order to actually work across all supported operating systems and application servers.
+  - I made it possible for your banks and insurance companies to send you emails with embedded images (sorry?).
+  - I authored the first properly-encoded Tweet coming from a Pega flow.
 - Componentizing modules in a monolithic codebase.
 - Adding new Integration Security features to the Pega platform.
   - I got the Pega platform to start utilzing the complicated layers of security in IBM Websphere instead of being overly tuned to Apache Tomcat.
   - Your insurance company started transferring your private information by more secure means after I was there for a while.
+  - I manually backported some Transport Layer Security (TLS) features to ancient versions of Apache HTTP Client, for customers who could not upgrade Java but still wanted to use Google services.
 - Coaching Product Managers, Support Engineers and End-Users on internet technologies and the use of Pega's integration feature set.
   - I gave semi-annual presentations on "what are secure sockets and what versions of TLS should we be supporting (and deprecating) next?"
   - [See my efforts to help users report and resolve bugs](https://www.google.com/search?q=pega+houlj).
