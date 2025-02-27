@@ -32,10 +32,10 @@
 ### Pegasystems
 - Assisting the director of Integration engineering.
 - Adding and enhancing data channels in the Pega platform.
-  - I abstracted and reimplemented a lot of the code and PegaRules middleware in order to actually work across all supported operating systems and application servers.
   - I made it possible for your banks and insurance companies to send you emails with embedded images (sorry?).
   - I authored the first properly-encoded Tweet coming from a Pega flow.
-- Componentizing modules in a monolithic codebase.
+- Componentizing modules in a monolithic codebase
+  - I abstracted and reimplemented a lot of the code and PegaRules middleware in order to actually work across all supported operating systems and application servers.
 - Adding new Integration Security features to the Pega platform.
   - I got the Pega platform to start utilzing the complicated layers of security in IBM Websphere instead of being overly tuned to Apache Tomcat.
   - Your insurance company started transferring your private information by more secure means after I was there for a while.
