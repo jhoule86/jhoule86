@@ -2,7 +2,7 @@
 
 ## Links
 
-- [My Linkedin Profile](https://www.linkedin.com/in/jhoule/)
+- [Linkedin: jhoule](https://www.linkedin.com/in/jhoule/)
 
 ## Current focus
 
