@@ -45,7 +45,9 @@
   - I manually backported some Transport Layer Security (TLS) features to ancient versions of Apache HTTP Client, for customers who could not upgrade Java but still wanted to use Google services.
 - Coaching Product Managers, Support Engineers and End-Users on internet technologies and the use of Pega's integration feature set.
   - I gave semi-annual presentations on "what are secure sockets and what versions of TLS should we be supporting (and deprecating) next?"
-  - [See my efforts to help users report and resolve bugs](https://www.google.com/search?q=pega+houlj).
+  - See my efforts to help users report and resolve bugs:
+    - [offical Pega support forums - login required](https://support.pega.com/user/1221491/community_activity/replies)
+    - [public results via google](https://www.google.com/search?q=pega+houlj).
 
 ### UNH IOL
 - TR-069 / CWMP engineering.
