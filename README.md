@@ -6,14 +6,14 @@
 
 ## Current focus
 
-- Taking some time to ask myself things, such as
+-Job hunting
+  - Take a look at my experience below!
+  - Are you hiring for software development or something else you think I'd be good for? Feel free to reach out. 
+- Asking myself things, such as
   - "What is that beautiful house?"
   - "Where does that highway go to?"
   - "Am I right, am I wrong?"
   - "... What have I done?"
-- Job hunting, also.
-  - Take a look at my experience below!
-  - Are you hiring for software development or something else you think I'd be good for? Feel free to reach out. 
   
 ## Past lives
 
