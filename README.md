@@ -6,7 +6,7 @@
 
 ## Current focus
 
--Job hunting
+- Job hunting
   - Take a look at my experience below!
   - Are you hiring for software development or something else you think I'd be good for? Feel free to reach out. 
 - Asking myself things, such as
