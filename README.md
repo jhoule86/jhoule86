@@ -34,7 +34,7 @@ DevOps and Organizational Improvement for the Consumer Identity Org.
 
 ### Wayfair
 
-Helping people tell Wayfair tell other people how many blue couches they could buy at a time, by building APIs, Websites, and Integrations.
+Helping people to tell Wayfair to tell other people how many blue couches they could buy at a time, by building APIs, Websites, and Integrations.
 
 - Building pipelines for notifying Wayfair's suppliers about integration issues and needs.
   - Python
