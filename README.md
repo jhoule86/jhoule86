@@ -64,7 +64,7 @@ Helping people tell Wayfair tell other people how many blue couches they could b
   - I gave semi-annual presentations on "what are secure sockets and what versions of TLS should we be supporting (and deprecating) next?"
   - See my efforts to help users report and resolve bugs:
     - [offical Pega support forums - login required](https://support.pega.com/user/1221491/community_activity/replies)
-    - [public results via google](https://www.google.com/search?q=pega+houlj).
+    - [public results via google](https://www.google.com/search?q=pega+houlj)
 - Finding novel ways to fix clients' odd, emergency issues
   - I cobbled together a Server Name Indication (SNI) implementation for old versions of Apache libraries, so that customers could hot patch their systems instead of updating their Java version to support the libraries that came with SNI built in, and they could start using Google services again.
 - Adding and enhancing data channels in the Pega platform
@@ -85,8 +85,10 @@ Helping people tell Wayfair tell other people how many blue couches they could b
 Making sure your modem works before it hits the shelf.
 
 - TR-069 / CWMP engineering.
+  - Setting up many CPEs (modems and routers), then making sure they responded correctly to commands from the ISP side.
+  - Reviewing / certifying test plans published by the Broadband Forum.
+  - Taking advantage of my Sun internship by being in charge of the servers that ran on Solaris OS.
 - Writing custom XML Parsers.
-- Reviewing / certifying test plans published by the Broadband Forum.
 
 ### Internships
   - Sun Microsystems
