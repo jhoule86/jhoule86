@@ -36,6 +36,8 @@ DevOps and Organizational Improvement for the Consumer Identity Org.
 
 Helping people to tell Wayfair to tell other people how many blue couches they could buy at a time, by building APIs, Websites, and Integrations.
 
+Also, oddly, learning basic German in order to draft [a gigantic user guide](https://github.com/wayfair-contribs/plentymarkets-plugin/blob/main/meta/documents/user_guide_de.md).
+
 - Building pipelines for notifying Wayfair's suppliers about integration issues and needs.
   - Python
   - PHP
@@ -51,6 +53,7 @@ Helping people to tell Wayfair to tell other people how many blue couches they c
   - Angular
   - Javascript
   - PHP
+  - Markdown
 - Building a "dating service" between Wayfair's suppliers and the integration solutions provided by partner organizations.
   - Java + Springboot
   - Kafka 
@@ -63,7 +66,7 @@ Helping people to tell Wayfair to tell other people how many blue couches they c
 - Coaching Directors, Product Managers, Support Engineers and End-Users on internet technologies and the use of Pega's integration feature set.
   - I gave semi-annual presentations on "what are secure sockets and what versions of TLS should we be supporting (and deprecating) next?"
   - See my efforts to help users report and resolve bugs:
-    - [offical Pega support forums - login required](https://support.pega.com/user/1221491/community_activity/replies)
+    - [official Pega support forums - login required](https://support.pega.com/user/1221491/community_activity/replies)
     - [public results via google](https://www.google.com/search?q=pega+houlj)
 - Finding novel ways to fix clients' odd, emergency issues
   - I cobbled together a Server Name Indication (SNI) implementation for old versions of Apache libraries, so that customers could hot patch their systems instead of updating their Java version to support the libraries that came with SNI built in, and they could start using Google services again.
