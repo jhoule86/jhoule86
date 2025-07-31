@@ -4,20 +4,22 @@
 
 - [Linkedin: jhoule](https://www.linkedin.com/in/jhoule/)
 
-## Current focus
+## Current events
 
 - Job hunting
   - Take a look at my experience below!
   - Are you hiring for software development or something else you think I'd be good for? Feel free to reach out. 
-- Asking myself things, such as
-  - "What is that beautiful house?"
-  - "Where does that highway go to?"
-  - "Am I right, am I wrong?"
-  - "... What have I done?"
+- Experiencing the joys of home maintenance.
+- Pet wrangling
+  - [A chatty cat](img/cindy_cave.jpg)
+  - [A goofy dog](img/birch_floor.jpg)
   
 ## Past lives
 
 ### Capital One
+
+DevOps and Organizational Improvement for the Consumer Identity Org.
+
  - Team Leadership
    - Running Scrum ceremonies
    - Mentoring junior engineers
@@ -25,11 +27,15 @@
  - Implementing and supporting Auth APIs and third party integrations
    - Java + Spring Boot
    - Apache Camel (XML)
+   - Jenkins pipelines
  - Developer enablement
    - Google Apps Script
-   - Techincal documentation (Markup, Google Docs)
+   - Technical documentation (Markup, Google Docs)
 
 ### Wayfair
+
+Helping people tell Wayfair tell other people how many blue couches they could buy at a time, by building APIs, Websites, and Integrations.
+
 - Building pipelines for notifying Wayfair's suppliers about integration issues and needs.
   - Python
   - PHP
@@ -51,6 +57,9 @@
 - Finding every possible way to migrate PHP-backed workflows to Python and Java
 
 ### Pegasystems
+
+(Re)Writing all of the integration backend code, so you don't have to write any code at all.
+
 - Coaching Directors, Product Managers, Support Engineers and End-Users on internet technologies and the use of Pega's integration feature set.
   - I gave semi-annual presentations on "what are secure sockets and what versions of TLS should we be supporting (and deprecating) next?"
   - See my efforts to help users report and resolve bugs:
@@ -70,10 +79,11 @@
   - I got the Pega platform to start utilzing the complicated layers of security in IBM Websphere instead of being overly tuned to Apache Tomcat.
   - Your insurance company started transferring your private information by more secure means after I was there for a while.
   - I manually backported some Transport Layer Security (TLS) features to ancient versions of Apache HTTP Client, for customers who could not upgrade Java but still wanted to use Google services.
-   
-  
 
 ### UNH IOL
+
+Making sure your modem works before it hits the shelf.
+
 - TR-069 / CWMP engineering.
 - Writing custom XML Parsers.
 - Reviewing / certifying test plans published by the Broadband Forum.
