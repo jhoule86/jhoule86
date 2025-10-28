@@ -40,15 +40,18 @@ Also, oddly, learning basic German in order to draft [a gigantic user guide](htt
 
 - Building pipelines for notifying Wayfair's suppliers about integration issues and needs.
   - Python
+  - Jira Integrations
   - PHP
   - Kafka
   - Groovy
   - SQL
+  - Yaml
 - Repairing legacy apps used by Wayfair's suppliers
   - PHP
   - SQL
 - Designing and implementing custom ERP plugins for Wayfair Supplier Integrations
   - Typescript
+  - GitHub Actions
   - Bootstrap
   - Angular
   - Javascript
