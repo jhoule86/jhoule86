@@ -32,6 +32,9 @@ DevOps and Organizational Improvement for the Consumer Identity Org.
  - Developer enablement
    - Google Apps Script
    - Technical documentation (Markdown, Google Docs)
+- Open Source Vulnerability Management
+  - Maven POM
+  - Dockerfiles
 
 ### Wayfair
 
@@ -47,6 +50,7 @@ Also, oddly, learning basic German in order to draft [a gigantic user guide](htt
   - Groovy
   - SQL
   - Yaml
+  - Gradle
 - Repairing legacy apps used by Wayfair's suppliers
   - PHP
   - SQL
