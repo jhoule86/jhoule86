@@ -31,7 +31,7 @@ DevOps and Organizational Improvement for the Consumer Identity Org.
    - Jenkins pipelines
  - Developer enablement
    - Google Apps Script
-   - Technical documentation (Markup, Google Docs)
+   - Technical documentation (Markdown, Google Docs)
 
 ### Wayfair
 
