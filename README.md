@@ -1,4 +1,4 @@
-# Jeff Houle / jhoule86
+# Jeff Houle | jhoule86
 
 ## Links
 
@@ -6,9 +6,7 @@
 
 ## Current events
 
-- Job hunting
-  - Take a look at my experience below!
-  - Are you hiring for software development or something else you think I'd be good for? Feel free to reach out. 
+- New software engineering job TBA
 - Tinkering with personal projects like my [FastAPI Sandbox](https://github.com/jhoule86/fastapi_sandbox/).
 - Experiencing the joys of home maintenance.
 - Pet wrangling
